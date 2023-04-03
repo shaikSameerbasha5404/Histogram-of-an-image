@@ -73,11 +73,24 @@ cv2.destroyAllWindows
 ## Output:
 ### Input Grayscale Image and Color Image
 ![model](/1.png)
+<br>
+
 ![model](/2.png)
+<br>
+
 ### Histogram of Grayscale Image and any channel of Color Image
+<br>
+
 ![model](/3.png)
+ 
+ <br>
+
 ### Histogram Equalization of Grayscale Image
+<br>
+
 ![model](/4.png)
 ![model](/5.png)
+ <br>
+ 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
